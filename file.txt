@@ -4,3 +4,4 @@ second line (for second commit)
 line for new branch (branch1)
 
 for megre conflict
+
